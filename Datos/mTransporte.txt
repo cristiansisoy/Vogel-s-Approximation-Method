@@ -1,0 +1,6 @@
+8	6	12	9
+7	11	10	14
+13	8	8	7
+15	21	4	5
+Lista de Ofertas:	1	2	3	4
+Lista de Demandas:	2	3	4	5
